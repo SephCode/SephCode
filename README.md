@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Rik! 👋
+🚀 Sysadmin & Tech Enthusiast
+With a strong background in M365, Azure, and information security, I’m passionate about leveraging technology to solve complex problems.
 
-<!--
-**SephCode/SephCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Curious & Eager Learner
+Always exploring new technologies and methodologies, I enjoy working on projects that challenge me to grow and expand my skill set. I’m currently diving deeper into Bash, Terraform and Docker.
 
-Here are some ideas to get you started:
+📜 Volunteering
+When I'm not coding or exploring new tech, I volunteer at an archaeological museum, merging my love for history with technology. This experience helps me maintain a balanced and productive work rhythm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏋️‍♂️ Fun Fact
+I enjoy hitting the gym twice a week to stay active and energized!
+
+Let’s collaborate and create something amazing together!
